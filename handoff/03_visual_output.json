@@ -1,0 +1,68 @@
+{
+  "project_title": "AI 與校園生活 60 秒短影片",
+  "visual_plan": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "shot_type": "text overlay with animated background",
+      "visual_description": "標題文字 'AI × 校園生活' 動態浮現，背景為模糊的校園景色",
+      "ai_image_prompt": "A futuristic university campus with holographic AI interface overlay, bright daylight, cinematic, 16:9",
+      "transition": "fade in from black",
+      "notes": "使用 AI 生成圖片作為背景，文字後製加上"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "shot_type": "medium shot with screen insert",
+      "visual_description": "學生坐在圖書館，筆電螢幕顯示 AI 輔助介面，畫面分割顯示學習前後對比",
+      "ai_image_prompt": "A student studying in a modern library with AI assistant on laptop screen, warm lighting, photorealistic, 16:9",
+      "transition": "cut",
+      "notes": "主要畫面 + AI 輔助效果可後製加上"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-25",
+      "shot_type": "close-up with creative transition",
+      "visual_description": "學生手持平板，螢幕顯示 AI 繪圖從草稿到完成的過程",
+      "ai_image_prompt": "A student using AI art generation tool on tablet, colorful digital artwork appearing on screen, creative workspace, 16:9",
+      "transition": "dissolve",
+      "notes": "強調 AI 生成的驚喜感"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "25-35",
+      "shot_type": "wide shot with UI overlay",
+      "visual_description": "在校園中，手機畫面顯示 AI 推薦課程與活動日曆",
+      "ai_image_prompt": "A student using smartphone with AI app on university campus, modern buildings in background, daytime, 16:9",
+      "transition": "cut",
+      "notes": "UI 截圖後製合成"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "35-45",
+      "shot_type": "group shot, warm lighting",
+      "visual_description": "學生們圍坐討論，中間放置筆電但畫面聚焦在人的互動",
+      "ai_image_prompt": "A group of university students discussing and collaborating in a study room, warm atmosphere, natural lighting, 16:9",
+      "transition": "cut",
+      "notes": "強調人的溫度，AI 只是背景元素"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "45-55",
+      "shot_type": "wide cinematic shot",
+      "visual_description": "校園日落，學生背影走向遠方，天空有輕微的 AI 全息投影效果",
+      "ai_image_prompt": "A university campus at sunset with a student walking towards the horizon, subtle AI holographic elements in the sky, cinematic, 16:9",
+      "transition": "slow dissolve",
+      "notes": "日落場景，AI 元素不過度張揚"
+    },
+    {
+      "scene_id": 7,
+      "time_range": "55-60",
+      "shot_type": "title card",
+      "visual_description": "結尾標題畫面，簡潔漸層背景，文字居中",
+      "ai_image_prompt": "Clean title card with text in modern Chinese typography, gradient background from blue to purple, minimalist design, 16:9",
+      "transition": "fade to black",
+      "notes": "純色背景 + 文字，不需複雜 AI 生成"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "project_title": "AI 與校園生活 60 秒短影片",
+  "target_audience": ["高中生", "大一新生", "一般觀眾"],
+  "core_message": "用 60 秒呈現 AI 如何融入大學校園生活，展現學習、創作、互動的可能性",
+  "video_length_seconds": 60,
+  "scenes": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "purpose": "opening hook",
+      "visual_plan": "標題畫面：AI × 校園生活，動態文字動畫",
+      "narration": "當 AI 遇上大學生活，會擦出什麼火花？",
+      "subtitle": "AI × 校園生活",
+      "ai_image_prompt": "A futuristic university campus with holographic AI interface overlay, bright daylight, cinematic"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "purpose": "AI 輔助學習",
+      "visual_plan": "學生在圖書館使用 AI 工具查資料，筆電畫面顯示 AI 輔助",
+      "narration": "AI 讓學習更高效，快速找到重點，理解複雜概念。",
+      "subtitle": "AI 輔助學習 — 快速掌握知識",
+      "ai_image_prompt": "A student studying in a modern library with AI assistant on laptop screen, warm lighting, photorealistic"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-25",
+      "purpose": "AI 創意創作",
+      "visual_plan": "學生用 AI 生成藝術作品，螢幕顯示 AI 繪圖過程",
+      "narration": "AI 也是創作好幫手，讓想像力無限延伸。",
+      "subtitle": "AI 創意創作 — 想像力無極限",
+      "ai_image_prompt": "A student using AI art generation tool on tablet, colorful digital artwork appearing on screen, creative workspace"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "25-35",
+      "purpose": "AI 生活應用",
+      "visual_plan": "在校園中使用 AI 排課、AI 推薦活動，手機畫面展示",
+      "narration": "從選課到規劃活動，AI 讓校園生活更便利。",
+      "subtitle": "AI 生活應用 — 智慧校園",
+      "ai_image_prompt": "A student using smartphone with AI app on university campus, modern buildings in background, daytime"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "35-45",
+      "purpose": "人機互動與社群",
+      "visual_plan": "學生們討論 AI 使用心得，小組合作畫面",
+      "narration": "但真正有價值的，是 AI 讓我們有更多時間與同學交流、合作。",
+      "subtitle": "人機互動 — 讓交流更有溫度",
+      "ai_image_prompt": "A group of university students discussing and collaborating in a study room, warm atmosphere, natural lighting"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "45-55",
+      "purpose": "未來展望",
+      "visual_plan": "校園日落畫面，學生背影走向遠方，AI 元素融入畫面",
+      "narration": "AI 不是取代我們，而是讓我們有更多可能。",
+      "subtitle": "AI 讓未來有更多可能",
+      "ai_image_prompt": "A university campus at sunset with a student walking towards the horizon, subtle AI holographic elements in the sky, cinematic"
+    },
+    {
+      "scene_id": 7,
+      "time_range": "55-60",
+      "purpose": "結尾 call-to-action",
+      "visual_plan": "結尾標題畫面，影片名稱與製作資訊",
+      "narration": "AI 與校園生活，由你定義。",
+      "subtitle": "AI 與校園生活 — 由你定義",
+      "ai_image_prompt": "Clean title card with text 'AI 與校園生活' in modern Chinese typography, gradient background, minimalist design"
+    }
+  ],
+  "asset_policy": "AI 生成圖片（免費工具）或公開授權素材",
+  "review_items": ["length", "truthfulness", "copyright", "portrait_rights"],
+  "narration_language": "zh-TW",
+  "subtitle_language": "zh-TW"
+}

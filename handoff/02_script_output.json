@@ -1,0 +1,56 @@
+{
+  "project_title": "AI 與校園生活 60 秒短影片",
+  "total_narration_words": 128,
+  "estimated_duration_seconds": 58,
+  "scripts": [
+    {
+      "scene_id": 1,
+      "time_range": "0-5",
+      "narration": "當 AI 遇上大學生活，會擦出什麼火花？",
+      "subtitle": "AI × 校園生活",
+      "voice_tone": "輕快、吸引人"
+    },
+    {
+      "scene_id": 2,
+      "time_range": "5-15",
+      "narration": "AI 讓學習更高效，快速找到重點，理解複雜概念。",
+      "subtitle": "AI 輔助學習 — 快速掌握知識",
+      "voice_tone": "正向、鼓勵"
+    },
+    {
+      "scene_id": 3,
+      "time_range": "15-25",
+      "narration": "AI 也是創作好幫手，讓想像力無限延伸。",
+      "subtitle": "AI 創意創作 — 想像力無極限",
+      "voice_tone": "興奮、好奇"
+    },
+    {
+      "scene_id": 4,
+      "time_range": "25-35",
+      "narration": "從選課到規劃活動，AI 讓校園生活更便利。",
+      "subtitle": "AI 生活應用 — 智慧校園",
+      "voice_tone": "實用、親切"
+    },
+    {
+      "scene_id": 5,
+      "time_range": "35-45",
+      "narration": "但真正有價值的，是 AI 讓我們有更多時間與同學交流、合作。",
+      "subtitle": "人機互動 — 讓交流更有溫度",
+      "voice_tone": "溫暖、真誠"
+    },
+    {
+      "scene_id": 6,
+      "time_range": "45-55",
+      "narration": "AI 不是取代我們，而是讓我們有更多可能。",
+      "subtitle": "AI 讓未來有更多可能",
+      "voice_tone": "鼓舞、前瞻性"
+    },
+    {
+      "scene_id": 7,
+      "time_range": "55-60",
+      "narration": "AI 與校園生活，由你定義。",
+      "subtitle": "AI 與校園生活 — 由你定義",
+      "voice_tone": "簡潔、有力"
+    }
+  ]
+}
